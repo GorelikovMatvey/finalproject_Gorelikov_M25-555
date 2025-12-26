@@ -211,7 +211,7 @@ os.getenv("EXCHANGERATE_API_KEY", "")
 
 ## 9. Демозапись
 
-[![asciicast](https://asciinema.org/a/6a5VBENtLLOn3f9izOrTDqurZ.svg)](https://asciinema.org/a/6a5VBENtLLOn3f9izOrTDqurZ)
+[![asciicast](https://asciinema.org/a/IrlPacC1vXo9apYWQ1KIYQ0tZ.svg)](https://asciinema.org/a/IrlPacC1vXo9apYWQ1KIYQ0tZ)
 ---
 
 ## 10. Контакты
